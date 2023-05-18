@@ -9,6 +9,7 @@
   },
   "main": "./build/wilmaapi.js",
   "scripts": {
-    "install": "tsc"
+    "install": "tsc",
+    "build": "tsc"
   }
 }
